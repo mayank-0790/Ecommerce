@@ -13,7 +13,7 @@ public class Category {
         this.categoryName = categoryName;
     }
 
-    public String getCategoryName() {
+    public String  getCategoryName() {
         return categoryName;
     }
 
