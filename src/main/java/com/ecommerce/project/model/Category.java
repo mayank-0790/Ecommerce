@@ -17,6 +17,9 @@ public class Category {
         return categoryId;
     }
 
+    public Category(){
+    }
+
     public Category(Long categoryId, String categoryName) {
         this.categoryId = categoryId;
         this.categoryName = categoryName;
